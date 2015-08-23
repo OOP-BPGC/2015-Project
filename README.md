@@ -1,6 +1,5 @@
-Project documents and resources as distributed by 2015 OOP instruction team.
+This repo is no longer being maintained. Please visit   
 
-Wiki
-====
+https://github.com/Akamoha/OOP-Resources   
 
-The [wiki](https://github.com/OOP-BPGC-201415/2015-Project/wiki) contains useful information. You may want to be familiar with information posted there.
+for all current updates
